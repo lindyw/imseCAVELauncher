@@ -14,7 +14,7 @@ This controller has been tested on
 - Barco F50
 
 ### Diagram
-![diagram of projector controller](Resources/Image/Projector.png)
+![diagram of projector controller](Resources/Image/Doc/Projector.png)
 
 ### Current support
 | brand | config | manual |
