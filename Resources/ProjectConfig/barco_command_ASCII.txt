@@ -1,0 +1,28 @@
+New imseCAVE (duel head 3D mode)
+
+	imseCAVE WQXGA Barco 1,3,4(COM7, COM9, COM10): 
+	TDLR 1 (3D display sync )
+	TBO2 4 (SYNC 2 3D output mode)
+
+	imseCave WQXGA Barco 2(COM8):
+	TDLR 1 (3D display sync)
+	TBO1 3 (Sync 1 3D output mode)
+	TBO2 3 (Sync 2 3D outputmode)
+	TBO3 3 (Sync 3 3D output mode)
+
+Old imseCAVE (frame sequential)
+	
+	imseCAVE Barco 1,3,4:
+	TDLR 0 (3D displaysync)
+	TBO2 0 (SYNC 2 3D output mode)
+	
+	imseCAVE Barco 2:
+	TDLR 0
+ 	TBO1 0 
+	TBO2 0
+	TBO3 0
+
+:TDSM0 - off  58 84 68 83 77 48 13
+:TDSM1 - side by side 58 84 68 83 77 49 13 (?
+:TDSM2 - frame sequential 58 84 68 83 77 50 13 (?
+:TDSM3 - dual head 58 84 68 83 77 51 13

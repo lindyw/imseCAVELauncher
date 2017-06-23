@@ -1,0 +1,18 @@
+# accept comment starting with '#'
+# If a line doesn't contain '=', will skip as well.
+# should contain only one '='
+# space-separated
+
+model_name = BenQ 855 UST
+
+# projector serial setup
+attr_baudrate       = 119200
+attr_data_length    = 8
+attr_stop_bit       = One
+attr_parity_check   = None
+
+# commands, 3d - frame sequential
+cmd_power_on    = 13 42 112 111 119 61 111 110 35 13
+cmd_power_off   = 13 42 112 111 119 61 111 102 102 35 13
+cmd_3d_on       = 13 42 51 100 61 102 115 35 13
+cmd_3d_off      = 13 42 51 100 61 111 102 102 35 13

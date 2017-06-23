@@ -1,0 +1,17 @@
+Style, 123, 167, 229, 255
+BarColor, 158, 184, 221, 255
+ButtonColorA, 0, 0, 0, 255
+ButtonColorB, 255, 255, 255, 255
+ButtonColorC, 0, 0, 0, 255
+ButtonColorD, 128, 128, 128, 255
+IconColorA, 255, 255, 255, 255
+IconColorB, 123, 167, 229, 255
+IconColorC, 199, 234, 255, 255
+IconColorD, 128, 128, 128, 255
+ScrollBGColor, 17, 64, 129, 63
+ScrollBarColor, 123, 167, 229, 255
+ScrollBarBGColorA, 123, 167, 229, 255
+ScrollBarBGColorB, 158, 184, 221, 255
+ScrollBarBGColorC, 199, 234, 255, 255
+ScrollBarBGColorD, 128, 128, 128, 255
+BGColor, 182, 222, 255, 128

@@ -1,0 +1,18 @@
+# accept comment starting with '#'
+# If a line doesn't contain '=', will skip as well.
+# should contain only one '='
+# space-separated
+
+model_name = paste_model_name_here
+
+# projector serial setup
+attr_baudrate       = 119200
+attr_data_length    = 8
+attr_stop_bit       = One (default) or Two or OnePointFive or None
+attr_parity_check   = None (default) or Even or Mark or Odd or Space
+
+# commands
+cmd_power_on    = paste_command_here
+cmd_power_off   = paste_command_here
+cmd_3d_on       = paste_command_here
+cmd_3d_off      = paste_command_here

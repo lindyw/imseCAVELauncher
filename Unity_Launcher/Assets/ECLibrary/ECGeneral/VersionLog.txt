@@ -1,0 +1,24 @@
+1.0.0
+
+01. Basic Static Functions
+02. Constants & Enum
+03. One Input - Multi Functions
+04. Audio Controller
+05. Simple Newton Law's Motion
+06. Simple Timer
+07. Unity 2D UI
+08. File & Directory
+09. Arduino Connection
+10. Simple Network
+11. Folder Reader
+12. Object Animator
+13. Object Highlight
+14. Object Translation
+15. Maths Classes
+16. Painting
+
+------------------------------------------------------------
+1.0.1
+
+01. ECAnimator Update: Support Cross Fade
+02. ECAnimator Update: Support State Index

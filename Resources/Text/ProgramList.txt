@@ -1,0 +1,10 @@
+Intro, N:\Apps\Build_MVR_1.4\Intro, , 1.4, Application
+CPSL, N:\Apps\Build_MVR_1.4\CPSL, , 1.4, CPSL
+TROVE, N:\Apps\Build_MVR_1.6\TROVE\Builds, _CPSL, 1.6.1, TROVE
+CAVE360, N:\Apps\Build_MVR_1.6\CAVE360\Builds, _CAVE, 1.6.1, CAVE360
+Tower Crane, N:\Apps\Build_MVR_1.4\TowerCrane, , 1.4, T
+Police, N:\Apps\Build_MVR_1.4\PoliceDemo, , 1.4, Police
+Detective Boulevard, N:\Apps\Build_MVR_1.6\DetectiveBoulevard\Builds, _CAVE, 1.6.1, Police
+Star Wars, N:\Apps\Build_MVR_1.6\StarWars\MVR, _CAVE, 1.6.1, StarWars
+Survival Shooter, N:\Apps\Build_MVR_1.6\SurvivalShooter\Builds, _CAVE, 1.6.1, SurvivalShooter
+Interior Design, N:\Apps\Build_MVR_1.6\InteriorDesign\Builds, _CAVE, 1.6.1, InteriorDesign

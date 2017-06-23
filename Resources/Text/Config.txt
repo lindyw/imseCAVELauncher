@@ -1,0 +1,10 @@
+path, C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\
+1.4, MiddleVR_1.4.0.f1\bin;C:\Program Files (x86)\MiddleVR_1.4.0.f1\bin64;
+1.4.0, MiddleVR_1.4.0.f1\bin;C:\Program Files (x86)\MiddleVR_1.4.0.f1\bin64;
+1.4.0.f1, MiddleVR_1.4.0.f1\bin;C:\Program Files (x86)\MiddleVR_1.4.0.f1\bin64;
+1.4.2, MiddleVR_1.4.2.f3\bin;C:\Program Files (x86)\MiddleVR_1.4.2.f3\bin64;
+1.4.2.f3, MiddleVR_1.4.2.f3\bin;C:\Program Files (x86)\MiddleVR_1.4.2.f3\bin64;
+1.6, MiddleVR_1.6.1.f6\bin;C:\Program Files (x86)\MiddleVR_1.6.1.f6\bin64;
+1.6.1, MiddleVR_1.6.1.f6\bin;C:\Program Files (x86)\MiddleVR_1.6.1.f6\bin64;
+1.6.1.f6, MiddleVR_1.6.1.f6\bin;C:\Program Files (x86)\MiddleVR_1.6.1.f6\bin64;, default
+1.6.1.f8, MiddleVR_1.6.1.f8\bin;C:\Program Files (x86)\MiddleVR_1.6.1.f8\bin64;

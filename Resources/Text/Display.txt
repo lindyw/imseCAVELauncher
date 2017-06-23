@@ -1,0 +1,3 @@
+Monitor, 1
+Resolution, 1600, 900
+3DMode, FS
