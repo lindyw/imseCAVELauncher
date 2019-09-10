@@ -1,7 +1,7 @@
 # IMSE Launcher
 
 ## Components
-- App Launcher (To-Be-Added)
+- App Launcher (Manual To-Be-Added)
 - [Projector controller](#projector-controller)
 - [System power controller](#system-power-controller)
 
